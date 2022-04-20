@@ -1,2 +1,2 @@
 # React project
-    1. Protfolio (https://portfoliotan.netlify.app/)
+    1. [Portfolio](https://portfoliotan.netlify.app/)
